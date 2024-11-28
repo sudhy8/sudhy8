@@ -1,5 +1,7 @@
 # 👋 Welcome to Sudhy's GitHub Portfolio!  
 
+![Profile Banner](https://your-banner-image-link)
+
 🌟 **AI/ML Developer | React.js Wizard | Generative AI Enthusiast | SaaS Innovator**  
 
 ---
@@ -10,34 +12,25 @@ Hello there! I'm **Sudhy Sukumaran**, a passionate developer and lifelong learne
 ---
 
 ### 🛠️ Tech Stack  
-- **Languages**: Python, JavaScript, TypeScript  
-- **Frontend**: React.js (Expert in Hooks, React Konva, and Next.js 14), Angular 8  
-- **Backend**: Node.js, Express, REST APIs  
-- **AI/ML**: Generative AI, Model Training Automation  
-- **Other Tools**: Git, Vercel, NixOS, WSL  
-- **Cloud & Hosting**: Vercel, GitHub Pages  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+</p>  
 
 ---
 
 ### ✨ Highlight Projects  
-- **SaaS Product**: A platform that shares real-time model training details in a user-friendly UI.  
-- **3D Animations in React.js**: Dynamic and interactive graphics for seamless user experiences.  
-- **Canva-like Web App**: Drag, resize, and edit images in a React-based canvas, exporting high-quality PDFs.  
-- **Portfolio Website**: A sleek and modern showcase of my skills, built using Next.js.  
+#### SaaS Product  
+A platform that shares real-time model training details in a user-friendly UI.  
+![SaaS Product Screenshot](https://your-image-link)
 
 ---
 
-### 🏆 Achievements  
-- Transitioned a backend system for scoliosis analysis with streamlined efficiency.  
-- Developed a dynamic multi-product form-handling system using React Hook Form.  
-- Automated complex image processing workflows, including noise reduction, background removal, and cropping.  
+### 📊 GitHub Stats  
+![Sudhy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudhy8&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhy8&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudhy8&theme=radical)
 
 ---
-
-### 🎯 What I Bring  
-- **Problem Solver**: Proven ability to tackle complex problems, from backend architecture to AI modeling.  
-- **Creative Developer**: Passion for building visually stunning and highly functional applications.  
-- **Adaptable Learner**: Always eager to embrace new challenges and technologies.  
-
----
-
