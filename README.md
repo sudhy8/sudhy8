@@ -41,8 +41,3 @@ Hello there! I'm **Sudhy Sukumaran**, a passionate developer and lifelong learne
 
 ---
 
-### 📫 Get in Touch!  
-- **GitHub**: [sudhy8](https://github.com/sudhy8)  
-
-
----
