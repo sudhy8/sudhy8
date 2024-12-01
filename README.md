@@ -1,4 +1,4 @@
-# 👋 Welcome to Sudhy's GitHub Portfolio!  
+# 👋 Welcome to My Portfolio!  
 
 ![Profile Banner](https://your-banner-image-link)  
 
