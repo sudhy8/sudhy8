@@ -1,6 +1,5 @@
 # 👋 Welcome to My Portfolio!  
 
-![Profile Banner](https://your-banner-image-link)  
 
 🌟 **AI/ML Developer | React.js Wizard | Generative AI Enthusiast | SaaS Innovator**  
 
