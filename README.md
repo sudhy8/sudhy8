@@ -41,13 +41,7 @@ Hello there! I'm **Sudhy Sukumaran**, a passionate developer and lifelong learne
 </p>  
 
 
----
 
-### ✨ Highlight Projects  
-
-#### SaaS Product  
-🚀 **Real-Time Model Training Platform**  
-A platform that shares real-time model training details in a user-friendly UI.  
 
 
 ---
