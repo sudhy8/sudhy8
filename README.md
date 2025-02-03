@@ -73,7 +73,6 @@ Hello there! I'm **Sudhy Sukumaran**, a passionate developer and lifelong learne
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sudhy8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/sudhy8"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>  
 
 ---
