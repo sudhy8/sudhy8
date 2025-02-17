@@ -1,7 +1,7 @@
 # 👋 Welcome to My Portfolio!  
 
 
-🌟 **AI/ML Developer | React.js Dev | Generative AI Enthusiast | SaaS Innovator**  
+🌟 **AI/ML Developer | React.js Dev **  
 
 ---
 
